@@ -61,7 +61,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainArchi06&layout=compact&theme=radical" />
 </a>
 
-[![Archi Jain's github stats](https://github-readme-stats.vercel.app/api?username=JainArchi06&show_icons=true&theme=radical)](https://github.com/JainArchi06/JainArchi06)
+[![Archi Jain's github stats](https://github-readme-stats.vercel.app/api?username=JainArchi06&show_icons=true&theme=radicalhide_rank=true)](https://github.com/JainArchi06/JainArchi06)
 
 
 
